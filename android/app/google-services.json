@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "162123667000",
+    "firebase_url": "https://resieve-f1ce2.firebaseio.com",
+    "project_id": "resieve-f1ce2",
+    "storage_bucket": "resieve-f1ce2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162123667000:android:0c09b278d56e1cf73e78cd",
+        "android_client_info": {
+          "package_name": "com.example.resieve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162123667000-m17cqc9dvs4710udiqvq1ga42jgl1rab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoIorlgXi9GbQHFZdmss1zHdmLUMKavtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162123667000-m17cqc9dvs4710udiqvq1ga42jgl1rab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162123667000-okp7kfa2u4ml5hfau7fbggtbfmccfrrb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.resieve"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
